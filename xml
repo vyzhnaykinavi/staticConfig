@@ -6329,7 +6329,7 @@ consumer-loan/v1/mobile/banking/products/loans/requests/list
 <targetTapVoice>true</targetTapVoice>
 </node>
 <node id="ift-node2.testonline.sberbank.ru">
-<NavigationBarEntryPointEnabled>true</NavigationBarEntryPointEnabled>
+<NavigationBarEntryPointEnabled>false</NavigationBarEntryPointEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
 <NavigationBarEntryPointEnabled>false</NavigationBarEntryPointEnabled>
