@@ -13512,10 +13512,10 @@ https://test.stat.online.sberbank.ru/PhizIC-res/mapicfg/card_tariffs_v2.xml
 <VoiceSearchEnabled>true</VoiceSearchEnabled>
 </node>
 <node id="ift-node1-mp.testonline.sberbank.ru">
-<VoiceSearchEnabled>true</VoiceSearchEnabled>
+<VoiceSearchEnabled>false</VoiceSearchEnabled>
 </node>
 <node id="ift-node2-mp.testonline.sberbank.ru">
-<VoiceSearchEnabled>true</VoiceSearchEnabled>
+<VoiceSearchEnabled>false</VoiceSearchEnabled>
 </node>
 </nodes>
 </param>
